@@ -8,4 +8,5 @@ Can you create an application in which we can see posts from the home page of th
 
 ### Screenshots
 
-
+<img src="https://psv4.userapi.com/c536436/u180921904/docs/d14/35f39eb8fde6/Screenshot_2021-02-23-17-40-27-250_com_example_nt_top_news.jpg?extra=c6-1S4eKZel-ivbnesHbeiNg8PuSIp0Ex_XXYwODVBcfXWojG1C8_4DiFgWIf9mxnwbw_llIBE0-xeUxsrAfB5OWqFxsTtWmxyk7z-X1Vjs-xESqwsbpAl9MjuKjvT_kIf1waEepO41503zfxydaS9St">
+<img src="https://psv4.userapi.com/c537232/u180921904/docs/d13/2b4327e9a257/Screenshot_2021-02-23-17-40-32-023_com_example_nt_top_news.jpg?extra=nueDwJYocwHtpcNQNsBzhU_Q3qp2IPKWH-gV_7-JK_NBvUl4KHfVachRjeNDR5OkUKKUiUWpj8TskHwEKA3NRS6278t1jybprRQ0p1fxP8RICNf6c94FJIa5YjpHNnNHeilKpbaYPCJrDM4I1G_E32vn">
